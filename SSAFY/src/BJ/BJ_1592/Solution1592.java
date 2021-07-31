@@ -1,4 +1,4 @@
-package BJ_1592;
+package BJ.BJ_1592;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

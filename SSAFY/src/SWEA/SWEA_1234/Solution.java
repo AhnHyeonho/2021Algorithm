@@ -1,4 +1,4 @@
-package SWEA_1234;
+package SWEA.SWEA_1234;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

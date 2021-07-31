@@ -1,4 +1,4 @@
-package BJ_2839;
+package BJ.BJ_2839;
 
 import java.util.Scanner;
 
